@@ -1,4 +1,5 @@
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Ajout sur l'original
 Quisque lectus est, feugiat id viverra at, lobortis id massa.
 Cras dictum lacus nec orci sodales, sit amet accumsan nulla euismod.
 Integer et imperdiet massa.
@@ -6,3 +7,4 @@ My addition
 
 Nullam tristique ipsum non consequat suscipit.
 Vestibulum placerat purus vitae tellus semper, in interdum justo vulputate.
+Ajout sur l'original
